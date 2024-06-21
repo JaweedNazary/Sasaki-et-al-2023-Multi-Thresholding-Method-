@@ -9,7 +9,8 @@
 # - It makes decisions about whether a `PIXEL` is a levee based on how consistently it meets these thresholds in various combinations.
 # - In essence, a levee is flagged when it checks all the boxes for elevation, slope, aspect, and curvature.
 # - here is snapshot of the methodolgy. 
-# 
+# - M. Jaweed Nazary
+# - University of Missouri - Columbia March 2024. 
 # 
 # ![image.png](attachment:image.png)
 
